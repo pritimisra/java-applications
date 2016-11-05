@@ -6,4 +6,5 @@
     <groupId>com.java.sample</groupId>
     <artifactId>db-connect</artifactId>
     <version>1.0-SNAPSHOT</version>
+
 </project>
